@@ -1,1 +1,6 @@
-# Voice-of-Care
+Voice-of-Care
+
+Loneliness and depression are surging, with alarming figures such as 40,000 suicides in Japan in 2024 underscoring the urgent need for digital tools that offer genuine emotional support rather than deepening
+isolation. In response, we present Voice of Care (VoC), a fully local, privacy-centric voice assistant built on two Raspberry Pis—one serving as the central server running Home Assistant OS and the other as a satellite for user interaction. VoC integrates speech recognition, personalized speech synthesis, and local NLP to deliver real-time, empathetic interactions without cloud dependency, ensuring user privacy. Its unique ability to replicate a loved one’s voice creates a comforting, familiar interaction, reducing loneliness and enhancing user engagement. Unlike conventional assistants, VoC detects the user’s emotional 
+state and dynamically offers tailored responses—such as playing music, providing motivational content, or guiding meditation—designed to uplift and support mental well-being. By ensuring that all data processing remains securely on the user’s network and leveraging sentiment-aware responses, preliminary results suggest that VoC can significantly enhance emotional resilience and mitigate digital isolation without 
+compromising privacy and safety of the user.
